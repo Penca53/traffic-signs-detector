@@ -1,0 +1,1 @@
+yolo settings datasets_dir="."

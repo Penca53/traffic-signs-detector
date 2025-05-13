@@ -1,0 +1,12 @@
+venv/
+
+stop-sign/runs/
+stop-sign/yolo11n.pt
+
+extended-signs/datasets/V2_Traffic_Signs/
+extended-signs/runs/
+extended-signs/yolo11n.pt
+
+*.cache
+
+.DS_Store
